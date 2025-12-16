@@ -1,7 +1,7 @@
 Write-Host "Deploying the Azure resources..."
 
 # Define resource group parameters
-$RG_LOCATION = "eastus"
+$RG_LOCATION = "westeurope"
 $MODEL_NAME = "gpt-4o-mini"
 $MODEL_VERSION = "2024-11-20"
 $AI_PROJECT_FRIENDLY_NAME = "Agent Service Workshop"
